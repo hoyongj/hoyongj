@@ -1,21 +1,12 @@
-### 👋 Hi, nice to meet you!
+### Hoyong Jung
+**Incoming Master of Financial Insurance (MFI) Candidate @ UofT | BSc Data Science @ SFU**
 
-I'm Hoyong — a student diving into the world of **data science** and loving every second of it.  
-Learning one dataset, one model, and one bug at a time. 🧠📊🐛
+Quantitative analyst and data engineer focused on statistical learning, time series forecasting, and building scalable risk infrastructure.
 
----
+**Technical Stack**
+- **Languages:** Python (Pandas, Scikit-learn), C/C++, R, SQL
+- **Quantitative Methods:** Machine Learning, Statistical Inference, Time Series Forecasting, A/B Testing
+- **Infrastructure & Tools:** Docker, FastAPI, Git, Linux
+- **Actuarial Foundation:** Passed SOA Exams (P, FM, SRM)
 
-### 🌱 Currently Exploring
-- Data analysis with Python
-- Machine learning and model building
-- Visualization tools like Matplotlib & Seaborn
-
----
-
-### 📫 Let's connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hoyongj-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/hoyongj)
-
----
-
-<!-- Fun little touch -->
-> “In God we trust. All others must bring data.” – W. Edwards Deming
+📫 [LinkedIn](https://linkedin.com/in/hoyongj)
