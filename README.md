@@ -1,7 +1,7 @@
 ### Hoyong Jung
 **Incoming Master of Financial Insurance (MFI) Candidate @ UofT | BSc Data Science @ SFU**
 
-Quantitative analyst and data engineer focused on statistical learning, time series forecasting, and building scalable risk infrastructure.
+Data scientist and risk modeler focused on statistical learning, time series forecasting, and building scalable data and risk infrastructure.
 
 **Technical Stack**
 - **Languages:** Python (Pandas, Scikit-learn), C/C++, R, SQL
