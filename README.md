@@ -1,12 +1,19 @@
 ### Hoyong Jung
-**Incoming Master of Financial Insurance (MFI) Candidate @ UofT | BSc Data Science @ SFU**
 
-Data scientist and risk modeler focused on statistical learning, time series forecasting, and building scalable data and risk infrastructure.
+**Incoming MFI @ University of Toronto · BSc Data Science @ SFU**
 
-**Technical Stack**
-- **Languages:** Python (Pandas, Scikit-learn), C/C++, R, SQL
-- **Quantitative Methods:** Machine Learning, Statistical Inference, Time Series Forecasting, A/B Testing
-- **Infrastructure & Tools:** Docker, FastAPI, Git, Linux
-- **Actuarial Foundation:** Passed SOA Exams (P, FM, SRM)
+Statistical modelling and machine learning. Currently working toward
+quantitative and actuarial roles in financial services.
+
+**Tools**
+- **Python**: pandas, scikit-learn, TensorFlow, Polars, Dask
+- **R**: tidyverse, lme4
+- **Also**: SQL, Docker, Git, Linux
+- **SOA exams passed**: P, FM, SRM
+
+**Selected work**
+- **Pathfinder**: LLM travel assistant; Docker environment and Google Maps integration
+- **KSL Recognition**: LSTM sign-language classifier, ~90% on 100 self-recorded clips
+- **USPTO Patent Matching**: Kaggle, 200/572 teams
 
 📫 [LinkedIn](https://linkedin.com/in/hoyongj)
